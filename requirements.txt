@@ -1,0 +1,11 @@
+All requirements provided in this text file for the model 
+numpy
+pandas
+matplotlib.pyplot
+nltk
+string
+re
+warning
+sklearn
+wordcloud
+seaborn
